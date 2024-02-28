@@ -1,4 +1,5 @@
-# web-app-voice
-# APLICACIÓN RECONOCIMIENTO DE VOZ
+# Documentación de web-app-voice
 
-Aplicación Web que permita identificar una orden específica por medio de voz, en dónde a partir del botón "Empezar a Grabar", con los permisos de micrófonos, se detecte las palabras dictadas a la computadora y lo muestre en el cuerpo del programa, utilizando Boostrap con un navbar, y un footer que contenga un texto de derechos reservados.
+>Esta aplicación muestra de manera didáctica un programa que identifica la voz humana y fue generado con "CHATGPT" en *JavaScript* con *HTML* y *Bootstrap*
+
+El link de mi aplicación es: (https://fabiolaveloz.github.io/web-app-voice/)
